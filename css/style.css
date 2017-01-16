@@ -1,0 +1,51 @@
+.container {
+    margin: 0 auto;
+    text-align: center;
+    width: 800px;
+    background: #666;
+    border: 3px black dashed;
+}
+
+.alertDanger {
+    margin: 0 auto;
+    width: 60px;
+    background: green;
+    color: black;
+    padding: 20px;
+}
+.alertSuccess {
+    margin: 0 auto;
+    width: 60%;
+    background: rgb(55,120,14);
+    color: black;
+    padding: 20px;
+}
+
+#positionOutput {
+    margin: 0 auto;
+    width: 60%;
+    background: rgb(13,255,227) ;
+    color: black;
+    padding: 20px;
+}
+.locMap {
+    margin: 20px auto;
+    width: 60%;
+    background: rgb(150,0,0);
+    color: black;
+    height: 40px;
+    padding: 20px;
+    display: block;
+}
+.button {
+    height:30px;
+    width: 100px;
+    margin: 0 auto; 
+    font-size: 16px;
+    padding:40px; 
+
+}
+.locMap:hover {
+    color: #f1d822;
+}
+  
